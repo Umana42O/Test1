@@ -1,0 +1,22 @@
+.titulo{
+    color:green
+}
+
+p{
+    font-weight:bolder;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+div > button {
+    background-color: black;
+    color: white;
+    max-width: 40px;
+} 
+
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+}
